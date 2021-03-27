@@ -1,4 +1,4 @@
-# ix
+# [ix](http://ix.io)
 
 command line pastebin
 
